@@ -138,37 +138,10 @@ const waseem: Developer = {
 <br/>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=waseem-development&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7C3AED&icon_color=06B6D4&text_color=e0e7ff&ring_color=7C3AED&border_radius=12" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=waseem-development&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED&sideLabels=e0e7ff&dates=a0a0a0&border_radius=12" />
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem-development&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=7C3AED&text_color=e0e7ff&border_radius=12&langs_count=8" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🏆 &nbsp; T R O P H I E S
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=waseem-development&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
