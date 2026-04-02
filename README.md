@@ -1,53 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,40:0d2137,70:0e4d6e,100:00b4d8&height=240&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=%E2%80%9CSeeking%20knowledge%20is%20an%20obligation%20upon%20every%20Muslim%E2%80%9D%20%E2%80%94%20Ibn%20M%C4%81jah&descAlignY=62&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0d1a0d,60:1a3a1a,100:0d2b0d&height=280&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=52&fontColor=d4af37&fontAlignY=40&desc=%E2%80%9CSeek%20knowledge%20from%20the%20cradle%20to%20the%20grave%E2%80%9D&descAlignY=62&descSize=15&descColor=a8c5a0&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=16&pause=1200&color=D4AF37&background=00000000&center=true&vCenter=true&width=750&lines=%D8%A8%D8%B3%D9%85%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85;Full-Stack+Engineer+%7C+AI+Builder;Founder+%40+ShalStack+%E2%80%94+Quetta%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Building+what+matters.+For+people+who+matter.;%D9%88%D9%85%D9%86+%D9%8A%D8%AA%D9%91%D9%82%20%D8%A7%D9%84%D9%84%D9%87+%D9%8A%D8%AC%D8%B9%D9%84+%D9%84%D9%87+%D9%85%D8%AE%D8%B1%D8%AC%D9%8B%D8%A7" alt="Typing SVG"/>
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00B4D8&background=00000000&center=true&vCenter=true&width=700&lines=%D8%A8%D8%B3%D9%85%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85;Full-Stack+Developer+%7C+AI%2FML+Explorer;CS+Student+%7C+Quetta%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Every+line+of+code+is+an+act+of+learning.;In+Shaa+Allah+%E2%80%94+the+best+is+yet+to+come+%F0%9F%A4%B2" alt="Typing SVG"/>
+<div align="center">
 
-<br><br>
-
-<a href="https://github.com/waseem-development"><img src="https://img.shields.io/badge/-waseem--development-0e4d6e?style=flat-square&logo=github&logoColor=00b4d8"/></a>
+[![GitHub](https://img.shields.io/badge/GitHub-waseem--development-0d2b0d?style=for-the-badge&logo=github&logoColor=d4af37&labelColor=0a0a0a)](https://github.com/waseem-development)
 &nbsp;
-<a href="https://linkedin.com/in/hafiz-waseem-ahmed-50a4b2347"><img src="https://img.shields.io/badge/-LinkedIn-0d2137?style=flat-square&logo=linkedin&logoColor=00b4d8"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d2b0d?style=for-the-badge&logo=linkedin&logoColor=d4af37&labelColor=0a0a0a)](https://linkedin.com/in/hafiz-waseem-ahmed-50a4b2347)
 &nbsp;
-<a href="mailto:hafizwaseemahmed2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0d2137?style=flat-square&logo=gmail&logoColor=00b4d8"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-0d2b0d?style=for-the-badge&logo=gmail&logoColor=d4af37&labelColor=0a0a0a)](mailto:hafizwaseemahmed2002@gmail.com)
 &nbsp;
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=waseem-development&label=Visitors&color=9&icon=2&pretty=false"/></a>
-
-<br>
+[![Visitors](https://visitcount.itsvg.in/api?id=waseem-development&label=Profile%20Views&color=3&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### 🧑‍💻 &nbsp; Who am I?
-
-Computer Science student from **Balochistan, Pakistan** 🇵🇰, building things that are both **intelligent and useful** — from full-stack web apps to AI-powered tools.
-
-I believe **knowledge is an amanah** — a trust from Allah. Every notebook I fill, every project I ship, every bug I fix is part of that journey.
-
-**What drives me:**
-- 🔭 Building AI products that actually help people
-- 🌊 Going deep on ML, not just tutorials
-- ⚡ Shipping real projects, not just learning forever
-- 🤝 Connecting with builders who care
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا                          ║
+║    "Whoever fears Allah — He will make a way out for him."          ║
+║                                          — At-Talaq 65:2            ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 <br>
 
-> *"وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا"*
-> *"Whoever fears Allah — He will make a way out for him"*
-> — At-Talaq 65:2
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 🌿 &nbsp; The Person Behind the Keyboard
+
+CS student from **Quetta, Balochistan 🇵🇰** — co-founder & lead developer at **ShalStack**, a bootstrapped startup building products that are *intelligent, purposeful, and culturally grounded.*
+
+I don't just write code. I build **systems that serve people** — full-stack web apps, AI-powered tools, and products rooted in Islamic values.
+
+**What drives me:**
+- 🔭 &nbsp; Shipping real products — not just learning forever
+- 🏗️ &nbsp; Co-founder of **ShalStack** — building from Quetta to the world
+- 🌙 &nbsp; Exploring Islamic FinTech & AI for Muslim communities
+- 🧠 &nbsp; Going deep on ML, not staying at the surface
+- ⚡ &nbsp; Every bug fixed is an act of *sabr*
+
+<br>
+
+> *"The ink of the scholar is more sacred*
+> *than the blood of the martyr."*
 
 </td>
-<td width="45%" valign="top" align="center">
+<td width="42%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px"/>
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="95%" style="border-radius:16px; border: 1px solid #2d5a2d;"/>
+
+<br><br>
+
+```javascript
+const waseem = {
+  role: "Full-Stack Engineer",
+  company: "ShalStack 🌿",
+  city: "Quetta, Pakistan 🇵🇰",
+  focus: ["Web", "AI", "IslamicTech"],
+  niyyah: "Build. Learn. Serve."
+};
+```
 
 </td>
 </tr>
@@ -57,52 +87,112 @@ I believe **knowledge is an amanah** — a trust from Allah. Every notebook I fi
 
 <div align="center">
 
-### 🛠️ &nbsp; Arsenal
+## ⚔️ &nbsp; Arsenal
 
-**— Languages —**
+</div>
 
-![Python](https://img.shields.io/badge/Python-0d2137?style=for-the-badge&logo=python&logoColor=00b4d8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d2137?style=for-the-badge&logo=typescript&logoColor=00b4d8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d2137?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-0d2137?style=for-the-badge&logo=c%2B%2B&logoColor=00b4d8)
-![C](https://img.shields.io/badge/C-0d2137?style=for-the-badge&logo=c&logoColor=00b4d8)
+<div align="center">
 
-**— Web & Frameworks —**
+**◈ &nbsp; Languages &nbsp; ◈**
 
-![Next.js](https://img.shields.io/badge/Next.js-0d2137?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-0d2137?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0d2137?style=for-the-badge&logo=node.js&logoColor=00b4d8)
-![Express.js](https://img.shields.io/badge/Express.js-0d2137?style=for-the-badge&logo=express&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d2137?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Python](https://img.shields.io/badge/Python-0a1a0a?style=flat-square&logo=python&logoColor=d4af37)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1a0a?style=flat-square&logo=typescript&logoColor=d4af37)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a1a0a?style=flat-square&logo=javascript&logoColor=f7df1e)
+![Go](https://img.shields.io/badge/Go_(learning)-0a1a0a?style=flat-square&logo=go&logoColor=00acd7)
+![C++](https://img.shields.io/badge/C++-0a1a0a?style=flat-square&logo=c%2B%2B&logoColor=a8c5a0)
+![C](https://img.shields.io/badge/C-0a1a0a?style=flat-square&logo=c&logoColor=a8c5a0)
 
-**— AI & Data Science —**
+**◈ &nbsp; Web & Frameworks &nbsp; ◈**
 
-![Pandas](https://img.shields.io/badge/Pandas-0d2137?style=for-the-badge&logo=pandas&logoColor=00b4d8)
-![NumPy](https://img.shields.io/badge/NumPy-0d2137?style=for-the-badge&logo=numpy&logoColor=00b4d8)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d2137?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d2137?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d2137?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d2137?style=for-the-badge&logo=Matplotlib&logoColor=00b4d8)
-![Plotly](https://img.shields.io/badge/Plotly-0d2137?style=for-the-badge&logo=plotly&logoColor=00b4d8)
+![Next.js](https://img.shields.io/badge/Next.js-0a1a0a?style=flat-square&logo=next.js&logoColor=d4af37)
+![React](https://img.shields.io/badge/React-0a1a0a?style=flat-square&logo=react&logoColor=61dafb)
+![NestJS](https://img.shields.io/badge/NestJS-0a1a0a?style=flat-square&logo=nestjs&logoColor=e0234e)
+![Node.js](https://img.shields.io/badge/Node.js-0a1a0a?style=flat-square&logo=node.js&logoColor=a8c5a0)
+![Express.js](https://img.shields.io/badge/Express.js-0a1a0a?style=flat-square&logo=express&logoColor=d4af37)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0a1a0a?style=flat-square&logo=tailwind-css&logoColor=38b2ac)
 
-**— Databases & Cloud —**
+**◈ &nbsp; AI & Data Science &nbsp; ◈**
 
-![Firebase](https://img.shields.io/badge/Firebase-0d2137?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d2137?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d2137?style=for-the-badge&logo=postgresql&logoColor=00b4d8)
-![MySQL](https://img.shields.io/badge/MySQL-0d2137?style=for-the-badge&logo=mysql&logoColor=00b4d8)
-![Supabase](https://img.shields.io/badge/Supabase-0d2137?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Pandas](https://img.shields.io/badge/Pandas-0a1a0a?style=flat-square&logo=pandas&logoColor=d4af37)
+![NumPy](https://img.shields.io/badge/NumPy-0a1a0a?style=flat-square&logo=numpy&logoColor=a8c5a0)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a1a0a?style=flat-square&logo=scikit-learn&logoColor=f7931e)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a1a0a?style=flat-square&logo=TensorFlow&logoColor=ff6f00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1a0a?style=flat-square&logo=PyTorch&logoColor=ee4c2c)
+![Plotly](https://img.shields.io/badge/Plotly-0a1a0a?style=flat-square&logo=plotly&logoColor=d4af37)
 
-**— Tools —**
+**◈ &nbsp; Databases & Cloud &nbsp; ◈**
 
-![Git](https://img.shields.io/badge/Git-0d2137?style=for-the-badge&logo=git&logoColor=F05033)
-![GitHub](https://img.shields.io/badge/GitHub-0d2137?style=for-the-badge&logo=github&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/Vercel-0d2137?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d2137?style=for-the-badge&logo=Jupyter&logoColor=F37626)
-![Anaconda](https://img.shields.io/badge/Anaconda-0d2137?style=for-the-badge&logo=anaconda&logoColor=44A833)
-![Postman](https://img.shields.io/badge/Postman-0d2137?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Power BI](https://img.shields.io/badge/PowerBI-0d2137?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Fedora](https://img.shields.io/badge/Fedora-0d2137?style=for-the-badge&logo=fedora&logoColor=51A2DA)
+![Firebase](https://img.shields.io/badge/Firebase-0a1a0a?style=flat-square&logo=firebase&logoColor=ffca28)
+![Supabase](https://img.shields.io/badge/Supabase-0a1a0a?style=flat-square&logo=supabase&logoColor=3ecf8e)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a1a0a?style=flat-square&logo=mongodb&logoColor=4ea94b)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1a0a?style=flat-square&logo=postgresql&logoColor=a8c5a0)
+![MySQL](https://img.shields.io/badge/MySQL-0a1a0a?style=flat-square&logo=mysql&logoColor=d4af37)
+
+**◈ &nbsp; Tools &nbsp; ◈**
+
+![Git](https://img.shields.io/badge/Git-0a1a0a?style=flat-square&logo=git&logoColor=f05033)
+![GitHub](https://img.shields.io/badge/GitHub-0a1a0a?style=flat-square&logo=github&logoColor=d4af37)
+![Vercel](https://img.shields.io/badge/Vercel-0a1a0a?style=flat-square&logo=vercel&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-0a1a0a?style=flat-square&logo=postman&logoColor=ff6c37)
+![Power BI](https://img.shields.io/badge/PowerBI-0a1a0a?style=flat-square&logo=powerbi&logoColor=f2c811)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a1a0a?style=flat-square&logo=Jupyter&logoColor=f37626)
+![Fedora](https://img.shields.io/badge/Fedora%20Linux-0a1a0a?style=flat-square&logo=fedora&logoColor=51a2da)
+
+</div>
+
+---
+
+## 💼 &nbsp; Selected Projects
+
+<table>
+<tr>
+<td align="center" width="60px">🍽️</td>
+<td><strong>Saveur — AI Recipe Platform</strong><br><sub>Next.js · TypeScript · AI · Supabase</sub></td>
+<td>AI-powered recipe generator & culinary blog — ShalStack's flagship product</td>
+</tr>
+<tr>
+<td align="center">🕌</td>
+<td><strong>Islamic FinTech Super-App</strong><br><sub>Next.js · NestJS · Shariah Compliance</sub></td>
+<td>Pakistan's first Shariah-certified all-in-one finance platform — Zakat, halal investing, Islamic calculators</td>
+</tr>
+<tr>
+<td align="center">📝</td>
+<td><strong>Blog Summarizer — Nexium</strong><br><sub>Next.js · MongoDB · Supabase</sub></td>
+<td>Scrapes, summarizes & translates blogs to Urdu via AI</td>
+</tr>
+<tr>
+<td align="center">🎓</td>
+<td><strong>Excellent School Website</strong><br><sub>HTML · Tailwind · JS</sub></td>
+<td>Custom educational web presence for a local institution</td>
+</tr>
+<tr>
+<td align="center">🤖</td>
+<td><strong>AI NAVTTC Field Journal</strong><br><sub>Python · Pandas · Jupyter</sub></td>
+<td>Personal AI/ML learning repository — notes, experiments, projects</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 &nbsp; GitHub Activity
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=waseem-development&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=d4af37&icon_color=a8c5a0&text_color=c8d8c8&include_all_commits=true&count_private=true&rank_icon=github"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem-development&hide_border=true&bg_color=0a0a0a&title_color=d4af37&text_color=c8d8c8&layout=compact&count_private=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=waseem-development&bg_color=0a0a0a&color=d4af37&line=2d5a2d&point=a8c5a0&area=true&hide_border=true&area_color=0d2b0d" width="95%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=waseem-development&hide_border=true&background=0a0a0a&ring=d4af37&fire=a8c5a0&currStreakLabel=d4af37&sideLabels=c8d8c8&dates=7a9a7a&stroke=2d5a2d" width="50%"/>
 
 </div>
 
@@ -110,61 +200,25 @@ I believe **knowledge is an amanah** — a trust from Allah. Every notebook I fi
 
 <div align="center">
 
-### 📊 &nbsp; GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=waseem-development&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00b4d8&icon_color=0096c7&text_color=caf0f8&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseem-development&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=00b4d8&text_color=caf0f8&layout=compact&count_private=true"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waseem-development&bg_color=0a0f1e&color=00b4d8&line=0096c7&point=caf0f8&area=true&hide_border=true&area_color=0d2137" width="95%"/>
-
-<br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=waseem-development&theme=tokyonight&hide_border=true&background=0a0f1e&ring=00b4d8&fire=0096c7&currStreakLabel=00b4d8&sideLabels=caf0f8&dates=90a0b0" width="50%"/>
+## 🌿 &nbsp; The Code I Live By
 
 </div>
 
----
-
-### 💼 &nbsp; Projects
-
-| &nbsp; | Project | Stack | Description |
-|:---:|---|---|---|
-| 🔗 | **Blog Summarizer — Nexium** | Next.js · MongoDB · Supabase | Scrapes, summarizes & translates blogs to Urdu |
-| 🌐 | **Excellent School Website** | HTML · Tailwind · JS | Custom educational web presence |
-| 🤖 | **AI NAVTTC Field Journal** | Python · Pandas · Jupyter | Personal AI/ML learning journey repo |
-| ⚙️ | **AI Internship Project** | Next.js · n8n · CI/CD | AI-powered app with workflow automation |
+```
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  🕌  Knowledge before action   — understand deeply, build boldly    │
+  │  🔥  Consistency over intensity — show up daily, even when it hurts │
+  │  🧠  No tutorial hell           — every concept must touch real code │
+  │  🤝  Build for people           — tech is only meaningful if serves  │
+  │  🌙  Niyyah first               — start everything with right intent  │
+  └─────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 <div align="center">
 
-### 📌 &nbsp; The Code I Live By
-
-| &nbsp; | Principle |
-|:---:|:---|
-| 🕌 | **Knowledge before action** — understand deeply, then build boldly |
-| 🔥 | **Consistency over intensity** — show up every day, even when it's hard |
-| 🧠 | **No tutorial hell** — every concept must touch real data or real code |
-| 🤝 | **Build for people** — technology is only meaningful when it serves others |
-| 🌙 | **Niyyah first** — start everything with the right intention |
-
-<br>
-
-> *"The ink of the scholar is more sacred than the blood of the martyr."*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-
-<br>
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
 
 </div>
 
@@ -184,4 +238,4 @@ I believe **knowledge is an amanah** — a trust from Allah. Every notebook I fi
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0e4d6e,70:0d2137,100:0a0f1e&height=160&section=footer&text=Work+hard+in+silence.+Let+your+code+make+the+noise.&fontSize=18&fontColor=caf0f8&fontAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d2b0d,40:1a3a1a,70:0a1a0a,100:0a0a0a&height=180&section=footer&text=Work+in+silence.+Let+your+code+be+your+sadaqah.&fontSize=18&fontColor=d4af37&fontAlignY=55&animation=twinkling" width="100%"/>
