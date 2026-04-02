@@ -53,7 +53,6 @@ const waseem: Developer = {
   building  : [
     "LLM-powered production apps",
     "Scalable backend systems",
-    "Islamic FinTech — Pakistan's first Shariah-certified super-app",
   ],
 
   learning  : ["Transformer internals", "Distributed systems", "Go"],
