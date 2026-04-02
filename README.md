@@ -71,32 +71,6 @@ const waseem: Developer = {
 
 <div align="center">
 
-## 🚀 &nbsp; C U R R E N T &nbsp; F O C U S
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| 🍽️ **Saveur** | 🕌 **Islamic FinTech Super-App** | 🧠 **Transformer Internals** |
-|:---:|:---:|:---:|
-| ShalStack's AI recipe platform | Pakistan's first Shariah-certified all-in-one finance platform | Understanding models from architecture up — not just the API |
-
-| 🏗️ **System Design** | ⚡ **Go Lang** |
-|:---:|:---:|
-| Distributed, fault-tolerant, production-grade infrastructure | Some performance problems deserve a better tool |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ## ⚡ &nbsp; T E C H &nbsp; S T A C K
 
 </div>
