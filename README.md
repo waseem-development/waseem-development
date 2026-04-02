@@ -1,223 +1,192 @@
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0533,50:2d1b69,100:1a0533&height=3&section=header" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%E2%80%9CAnd%20He%20taught%20Adam%20the%20names%20of%20all%20things%E2%80%9D%20%E2%80%94%20Al-Baqarah%202%3A31&descAlignY=60&descSize=14&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2d1b69,40:7c3aed,70:a855f7,100:c084fc&height=260&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=46&fontColor=ffffff&fontAlignY=50&desc=%E2%80%9CSeeking%20knowledge%20is%20an%20obligation%20upon%20every%20Muslim%E2%80%9D%20%E2%80%94%20Ibn%20M%C4%81jah&descAlignY=70&descSize=13&animation=blinking&rotate=-3&textBg=false" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Aspiring+AI%2FML+Engineer;Building+intelligent+%26+useful+things.;Learning+is+an+act+of+worship+%F0%9F%A4%8D;In+Shaa+Allah+%E2%80%94+the+best+is+yet+to+come.)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=600&size=26&pause=1500&color=C084FC&background=00000000&center=true&vCenter=true&width=700&lines=%D8%A8%D8%B3%D9%85%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85;Full-Stack+Developer+%7C+AI%2FML+Explorer;CS+Student+%7C+Quetta%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Every+line+of+code+is+an+act+of+learning.;In+Shaa+Allah+%E2%80%94+the+best+is+yet+to+come+%F0%9F%A4%B2" alt="Typing SVG" />
 
-<br>
+<br><br>
 
-![CS Student](https://img.shields.io/badge/🎓%20CS%20Student-Balochistan-6366f1?style=for-the-badge&labelColor=0f172a)
-![Full Stack](https://img.shields.io/badge/💻%20Full--Stack-Developer-3b82f6?style=for-the-badge&labelColor=0f172a)
-![AI ML](https://img.shields.io/badge/🤖%20AI%2FML-Aspiring%20Engineer-22c55e?style=for-the-badge&labelColor=0f172a)
-![Location](https://img.shields.io/badge/📍%20Quetta-Pakistan%20🇵🇰-f59e0b?style=for-the-badge&labelColor=0f172a)
-
-<br>
+<a href="https://github.com/Paxto2002"><img src="https://img.shields.io/badge/-Paxto2002-7c3aed?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hafiz-waseem-ahmed-50a4b2347"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:hafizwaseemahmed2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Paxto2002&label=Visitors&color=7&icon=2&pretty=false"/></a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 ---
 
-## &nbsp; 🌙 &nbsp; Bismillah — Who am I?
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+### 🌙 &nbsp; Who am I?
 
-I'm a **Computer Science student** from Balochistan 🇵🇰 with a dream to become a world-class **AI/ML engineer** and **full-stack developer**.
+Computer Science student from **Balochistan, Pakistan** 🇵🇰, building things that are both **intelligent and useful** — from full-stack web apps to AI-powered tools.
 
-I believe that **knowledge is amanah** — a trust. Every line of code I write, every model I train, every problem I solve is part of fulfilling that trust.
+I believe **knowledge is an amanah** — a trust from Allah. Every notebook I fill, every project I ship, every bug I fix is part of that journey.
 
-I love building things that are both **intelligent and useful** — from modern web apps to AI-powered tools.
+**What drives me:**
+- 🔭 Building AI products that actually help people
+- 🌱 Going deep on ML, not just tutorials
+- ⚡ Shipping real projects, not just learning forever
+- 🤝 Connecting with builders who care
 
 <br>
 
-> *"Whoever takes a path in search of knowledge, Allah will make easy for him a path to Paradise."*
-> — Prophet Muhammad ﷺ (Sahih Muslim)
+> *"وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا"*
+> *"Whoever fears Allah — He will make a way out for him"*
+> — At-Talaq 65:2
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnUxcTZkcGh4ZTNmMnh4anExMGJ5cjNhNXYwaHIyNGFzZHg2bDBjcyZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" style="border-radius:12px"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## &nbsp; 🛠️ &nbsp; Tech Stack
+<div align="center">
+
+### 🛠️ &nbsp; Arsenal
+
+</div>
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**— Languages —**
 
-### Web & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**— Web & Frameworks —**
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### AI & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+**— AI & Data Science —**
 
-### Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+**— Databases & Cloud —**
+
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**— Tools —**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Anaconda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
-
-## &nbsp; 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paxto2002&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6366f1&text_color=e2e8f0&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paxto2002&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&layout=compact&include_all_commits=true&count_private=true" height="165"/>
+### 📊 &nbsp; GitHub Stats
 
-<br><br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Paxto2002&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=6366f1&currStreakLabel=a78bfa" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## &nbsp; 💼 &nbsp; Highlighted Projects
-
-| 🚀 Project | 📖 Description |
-|---|---|
-| **Blog Summarizer — Nexium** | Scrapes blogs, summarizes & translates to Urdu. Stores results in MongoDB + Supabase |
-| **Excellent School Website** | Custom educational website built with HTML, Tailwind CSS & JavaScript |
-| **AI NAVTTC Field Journal** | Personal AI/ML learning repo — Python → Data → ML → DL → ∞ |
-| **Internship Final Project** | AI-powered app with full CI/CD pipeline and workflow automation via n8n |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## &nbsp; 🌱 &nbsp; Currently Learning
-
-<div align="center">
-
-| Area | Focus |
-|:---:|:---:|
-| 📊 Data Science | Pandas, Data Wrangling & EDA |
-| ➗ Mathematics | Statistics & Math for ML |
-| ⚙️ Automation | n8n Workflow Automation |
-| 🤖 AI Journey | Machine Learning → Deep Learning → LLMs |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## &nbsp; 🎯 &nbsp; Goals
-
-<div align="center">
-
-```
-✦  Become a solid full-stack + AI/ML engineer
-✦  Launch & scale a useful AI-based product
-✦  Master data science foundations — math, stats, modeling
-✦  Build a strong, honest public portfolio
-✦  Stay consistent. Build with love. Learn with intensity.
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## &nbsp; 💬 &nbsp; Words I Live By
-
-<div align="center">
-
-> *"Verily, with hardship comes ease."* — Al-Inshirah 94:6 &nbsp; 🤲
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paxto2002&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=a855f7&text_color=e2d9f3&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paxto2002&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2d9f3&layout=compact&count_private=true"/>
 
 <br>
 
-> *"Work hard in silence. Let your code and your impact make the noise."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paxto2002&bg_color=0d0d1a&color=c084fc&line=7c3aed&point=a855f7&area=true&hide_border=true&area_color=2d1b69" width="95%"/>
 
 <br>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://nirzak-streak-stats.vercel.app/?user=Paxto2002&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=c084fc&fire=a855f7&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=7c7c9c" width="50%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+### 💼 &nbsp; Projects
+
+| &nbsp; | Project | Stack | Description |
+|:---:|---|---|---|
+| 🔗 | **Blog Summarizer — Nexium** | Next.js · MongoDB · Supabase | Scrapes, summarizes & translates blogs to Urdu |
+| 🌐 | **Excellent School Website** | HTML · Tailwind · JS | Custom educational web presence |
+| 🤖 | **AI NAVTTC Field Journal** | Python · Pandas · Jupyter | Personal AI/ML learning journey repo |
+| ⚙️ | **AI Internship Project** | Next.js · n8n · CI/CD | AI-powered app with workflow automation |
 
 ---
 
-## &nbsp; 📬 &nbsp; Let's Connect
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-hafizwaseemahmed2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizwaseemahmed2002@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafiz%20Waseem%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafiz-waseem-ahmed-50a4b2347)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Paxto2002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paxto2002)
+### 📌 &nbsp; The Code I Live By
 
 <br>
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Paxto2002&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+| &nbsp; | Principle |
+|:---:|:---|
+| 🕌 | **Knowledge before action** — understand deeply, then build boldly |
+| 🔥 | **Consistency over intensity** — show up every day, even when it's hard |
+| 🧠 | **No tutorial hell** — every concept must touch real data or real code |
+| 🤝 | **Build for people** — technology is only meaningful when it serves others |
+| 🌙 | **Niyyah first** — start everything with the right intention |
+
+<br>
+
+> *"The ink of the scholar is more sacred than the blood of the martyr."*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+
+<br>
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
 </div>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
 <br>
 
-*بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ*
+### وَاَنۡ لَّيۡسَ لِلۡاِنۡسَانِ اِلَّا مَا سَعٰىۙ
 
-<br>
+*"And that there is not for man except that for which he strives."*
 
-**In Shaa Allah — the best is yet to come.** 🤲
-
-<br>
-
-`Full-Stack` &nbsp;**→**&nbsp; `Data Science` &nbsp;**→**&nbsp; `ML` &nbsp;**→**&nbsp; `DL` &nbsp;**→**&nbsp; `AI Engineer` &nbsp;**→**&nbsp; `∞`
+**— Surah An-Najm, 53:39**
 
 <br>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:c084fc,40:a855f7,70:7c3aed,100:2d1b69&height=200&section=footer&text=Work+hard+in+silence.&fontSize=32&fontColor=ffffff&fontAlignY=40&desc=Let+your+code+make+the+noise.+%F0%9F%9A%80&descAlignY=62&descSize=16&rotate=3&reversal=true" width="100%"/>
