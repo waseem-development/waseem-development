@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🚀+Building+AI-first+products+from+Quetta%2C+Pakistan;⚡+Co-Founder+%40+ShalStack+—+Ships+Real+Products;🧠+LLMs+·+Full-Stack+·+Islamic+FinTech;🔥+Depth+over+breadth.+Ship.+Iterate.+Repeat.;💡+Engineering+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🚀+Building+AI-first+products+from+Quetta%2C+Pakistan;⚡+Co-Founder+%40+ShalStack+—+Ships+Real+Products;🧠+LLMs+·+Full-Stack+·+Islamic+FinTech;🔥+Depth+over+breadth.+Ship.+Iterate.+Repeat.;💡+Engineering+the+future%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 </div>
 
