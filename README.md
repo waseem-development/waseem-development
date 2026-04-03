@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🚀+Building+AI-first+products+from+Quetta%2C+Pakistan;⚡+Co-Founder+%40+ShalStack+—+Ships+Real+Products;🧠+LLMs+·+Full-Stack+·+Islamic+FinTech;🔥+Depth+over+breadth.+Ship.+Iterate.+Repeat.;💡+Engineering+the+future%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4500&pause=1200&color=06B6D4&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=🚀+Building+AI-first+products+from+Quetta%2C+Pakistan;⚡+Co-Founder+%40+ShalStack+—+Ships+Real+Products;🧠+LLMs+·+Full-Stack+·+Islamic+FinTech;🔥+Depth+over+breadth.+Ship.+Iterate.+Repeat.;💡+Engineering+the+future%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 </div>
 
