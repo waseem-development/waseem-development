@@ -64,6 +64,16 @@ const waseem: Developer = {
 
 <br/>
 
+<div align="center">
+
+*قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ*
+
+**"Say: Are those who know equal to those who do not know?"** — *Surah Az-Zumar, 39:9*
+
+</div>
+
+<br/>
+
 ---
 
 <br/>
@@ -124,6 +134,16 @@ const waseem: Developer = {
 
 <br/>
 
+<div align="center">
+
+*وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا*
+
+**"And He taught Adam the names of all things."** — *Surah Al-Baqarah, 2:31*
+
+</div>
+
+<br/>
+
 ---
 
 <br/>
@@ -140,7 +160,6 @@ const waseem: Developer = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=waseem-development&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED&sideLabels=e0e7ff&dates=a0a0a0&border_radius=12" />
 
 </div>
-
 
 </div>
 
@@ -161,6 +180,16 @@ const waseem: Developer = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=waseem-development&bg_color=0d0d0d&color=7C3AED&line=06B6D4&point=ffffff&area=true&hide_border=true&area_color=7C3AED30&radius=8&custom_title=Waseem's%20Contribution%20Graph" width="96%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*إِنَّ مَعَ الْعُسْرِ يُسْرًا*
+
+**"Verily, with hardship comes ease."** — *Surah Ash-Sharh, 94:6*
 
 </div>
 
@@ -222,6 +251,16 @@ const waseem: Developer = {
 
 <br/>
 
+<div align="center">
+
+*وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا*
+
+**"And put your trust in Allah. Sufficient is Allah as a Disposer of affairs."** — *Surah Al-Ahzab, 33:3*
+
+</div>
+
+<br/>
+
 ---
 
 <br/>
@@ -242,7 +281,7 @@ const waseem: Developer = {
 
 <br/>
 
-*Open to collaborate on AI-first products, Islamic FinTech, and anything that ships to real users.*
+*Open to collaborate on AI-first products, and anything that ships to real users.*
 
 </div>
 
@@ -260,7 +299,7 @@ const waseem: Developer = {
 
 *وَاَنۡ لَّيۡسَ لِلۡاِنۡسَانِ اِلَّا مَا سَعٰىۙ*
 
-**"There is not for man except that for which he strives"** — *Surah An-Najm, 53:39*
+**"There is not for man except that for which he strives."** — *Surah An-Najm, 53:39*
 
 <br/>
 
