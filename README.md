@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=200&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20·%20AI%20Builder%20·%20Co-Founder%20%40%20ShalStack&descSize=16&descAlignY=60&descColor=e0e7ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=200&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20·%20AI%20Builder%20·%20Co-Founder%20%40%20ShalStack&descSize=16&descAlignY=60&descColor=e0e7ff" />
 
 </div>
 
@@ -46,7 +46,7 @@
 ```typescript
 const waseem: Developer = {
   name      : "Hafiz Waseem Ahmed",
-  role      : "Full-Stack Engineer  +  AI Builder",
+  role      : "Full-Stack Web Developer  +  AI Builder",
   company   : "ShalStack — bootstrapped · AI-first · ships real products",
   location  : "Quetta, Balochistan, Pakistan 🇵🇰",
 
