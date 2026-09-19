@@ -167,37 +167,6 @@ const waseem: Developer = {
 
 ---
 
-<br/>
-
-<div align="center">
-
-## 📈 &nbsp; C O N T R I B U T I O N &nbsp; G R A P H
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=waseem-development&bg_color=0d0d0d&color=7C3AED&line=06B6D4&point=ffffff&area=true&hide_border=true&area_color=7C3AED30&radius=8&custom_title=Waseem's%20Contribution%20Graph" width="96%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*إِنَّ مَعَ الْعُسْرِ يُسْرًا*
-
-**"Verily, with hardship comes ease."** — *Surah Ash-Sharh, 94:6*
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
 
