@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Header Banner with CodeByPaxto Royal Iris to Luminous Periwinkle to Matrix Mint gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5755A7,50:818CF8,100:2DD4BF&height=220&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CodeByPaxto%20·%20Full-Stack%20Web%20%26%20AI%20Automations%20·%20Co-Founder%20%40%20ShalStack&descSize=16&descAlignY=58&descColor=fcf8ff" alt="CodeByPaxto Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5755A7,50:818CF8,100:2DD4BF&height=220&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CodeByPaxto%20·%20Full-Stack%20Web%20+%20AI%20Automations%20·%20Co-Founder%20%40%20ShalStack&descSize=16&descAlignY=58&descColor=fcf8ff" alt="CodeByPaxto Header Banner" />
 
 </div>
 
