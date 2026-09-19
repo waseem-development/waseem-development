@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5755A7,50:818CF8,100:2DD4BF&height=220&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CodeByPaxto%20·%20Full-Stack%20Web%20+%20AI%20Automations%20·%20Co-Founder%20%40%20ShalStack&descSize=16&descAlignY=58&descColor=fcf8ff" alt="CodeByPaxto Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5755A7,50:818CF8,100:2DD4BF&height=220&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CodeByPaxto%20·%20Full-Stack%20Web%20and%20AI%20Automations%20·%20Co-Founder%20%40%20ShalStack&descSize=16&descAlignY=58&descColor=fcf8ff" alt="CodeByPaxto Header Banner" />
 
 </div>
 
@@ -58,9 +58,10 @@ const paxto: EngineerProfile = {
   leadership  : "Co-Founder @ ShalStack (Modern Software & Digital Systems)",
   location    : "Quetta, Balochistan, Pakistan 🇵🇰",
   portfolio   : "https://www.codebypaxto.com",
+  co-founder  : "https://www.shalstack.com",
 
   building    : [
-    "High-performance Next.js 15 & React 19 web platforms (99% PageSpeed · 0ms TBT)",
+    "High-performance Next.js 15 & React 19 web platforms",
     "Autonomous Python & n8n business automations & database workflows",
     "Data intelligence dashboards, analytics pipelines & AI-first tools",
   ],
@@ -155,7 +156,7 @@ Explore live products built and maintained under **CodeByPaxto** and **ShalStack
 
 | Project | Focus / Stack | Live Link |
 | :--- | :--- | :---: |
-| **CodeByPaxto Portfolio** | Production portfolio scoring **99% Desktop & 90% Mobile** with 0ms TBT (Next.js 15, React 19, GSAP) | [Visit Website ↗](https://www.codebypaxto.com) |
+| **CodeByPaxto Portfolio** | Personal portfolio & digital showcase engineered with Next.js 15, React 19, and GSAP | [Visit Website ↗](https://www.codebypaxto.com) |
 | **AWAZ Civic Platform** | Civic issue reporting, municipal governance, and community feedback management | [Explore Project ↗](https://www.codebypaxto.com/work) |
 | **Excellent School Quetta** | High-density institutional portal, student records & academic administration | [Explore Project ↗](https://www.codebypaxto.com/work) |
 | **Chef Paxto** | Interactive culinary digital experience & recipe intelligence application | [Explore Project ↗](https://www.codebypaxto.com/work) |
@@ -231,8 +232,7 @@ Explore live products built and maintained under **CodeByPaxto** and **ShalStack
 ║                                                                                     ║
 ║   02  →  Understand the constraint before writing a single line of architecture.   ║
 ║                                                                                     ║
-║   03  →  Production is the only true audit. Benchmark for 0ms Total Blocking Time.  ║
-║                                                                                     ║
+║   03  →  Production is the real test. Ship real value to real users.               ║                                                                                     ║
 ║   04  →  Depth over breadth. Deep foundational understanding outlasts any trend.    ║
 ║                                                                                     ║
 ║   05  →  Automate the repetitive; focus human intelligence on solving hard problems.║
