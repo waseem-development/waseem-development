@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=1200&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=🚀+Co-Founder+%40+ShalStack+—+Building+Scalable+Digital+Systems;⚡+Official+Portfolio%3A+codebypaxto.com+(99%25+Speed+·+0ms+TBT);🧠+Full-Stack+Web+·+Python+Automations+·+Data+Intelligence;💎+Craftsmanship+with+Ihsan+(إحسان)+—+Ship.+Iterate.+Repeat.;🤲+رَّبِّ+زِدْنِي+عِلْمًا+—+My+Lord%2C+increase+me+in+knowledge.)](https://www.codebypaxto.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=1200&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=🚀+Co-Founder+%40+ShalStack+—+Building+Scalable+Digital+Systems;⚡+Official+Portfolio%3A+codebypaxto.com;🧠+Full-Stack+Web+·+Python+Automations+·+Data+Intelligence;💎+Craftsmanship+with+Ihsan+(إحسان)+—+Ship.+Iterate.+Repeat.;🤲+رَّبِّ+زِدْنِي+عِلْمًا+—+My+Lord%2C+increase+me+in+knowledge.)](https://www.codebypaxto.com)
 
 </div>
 
@@ -58,7 +58,7 @@ const paxto: EngineerProfile = {
   leadership  : "Co-Founder @ ShalStack (Modern Software & Digital Systems)",
   location    : "Quetta, Balochistan, Pakistan 🇵🇰",
   portfolio   : "https://www.codebypaxto.com",
-  co-founder  : "https://www.shalstack.com",
+  coFounder   : "https://www.shalstack.com",
 
   building    : [
     "High-performance Next.js 15 & React 19 web platforms",
@@ -232,7 +232,8 @@ Explore live products built and maintained under **CodeByPaxto** and **ShalStack
 ║                                                                                     ║
 ║   02  →  Understand the constraint before writing a single line of architecture.   ║
 ║                                                                                     ║
-║   03  →  Production is the real test. Ship real value to real users.               ║                                                                                     ║
+║   03  →  Production is the real test. Ship real value to real users.                ║
+║                                                                                     ║
 ║   04  →  Depth over breadth. Deep foundational understanding outlasts any trend.    ║
 ║                                                                                     ║
 ║   05  →  Automate the repetitive; focus human intelligence on solving hard problems.║
