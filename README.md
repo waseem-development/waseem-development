@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:06B6D4&height=200&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20·%20AI%20Builder%20·%20Co-Founder%20%40%20ShalStack&descSize=16&descAlignY=60&descColor=e0e7ff" />
+<!-- Header Banner with CodeByPaxto Royal Iris to Luminous Periwinkle to Matrix Mint gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5755A7,50:818CF8,100:2DD4BF&height=220&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CodeByPaxto%20·%20Full-Stack%20Web%20%26%20AI%20Automations%20·%20Co-Founder%20%40%20ShalStack&descSize=16&descAlignY=58&descColor=fcf8ff" alt="CodeByPaxto Header Banner" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4500&pause=1200&color=06B6D4&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=55&lines=🚀+Building+AI-first+products+from+Quetta%2C+Pakistan;⚡+Co-Founder+%40+ShalStack+—+Ships+Real+Products;🧠+LLMs+·+Full-Stack+·+Islamic+FinTech;🔥+Depth+over+breadth.+Ship.+Iterate.+Repeat.;💡+Engineering+the+future%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+### بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
+*In the Name of Allah, the Most Gracious, the Most Merciful*
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=1200&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=🚀+Co-Founder+%40+ShalStack+—+Building+Scalable+Digital+Systems;⚡+Official+Portfolio%3A+codebypaxto.com+(99%25+Speed+·+0ms+TBT);🧠+Full-Stack+Web+·+Python+Automations+·+Data+Intelligence;💎+Craftsmanship+with+Ihsan+(إحسان)+—+Ship.+Iterate.+Repeat.;🤲+رَّبِّ+زِدْنِي+عِلْمًا+—+My+Lord%2C+increase+me+in+knowledge.)](https://www.codebypaxto.com)
 
 </div>
 
@@ -14,10 +20,12 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-waseem--development-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseem-development)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafiz-waseem-ahmed-50a4b2347)
-[![Email](https://img.shields.io/badge/Email-hafizwaseemahmed2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizwaseemahmed2002@gmail.com)
-[![Pakistan](https://img.shields.io/badge/🇵🇰-Quetta%2C%20Pakistan-01411C?style=for-the-badge)](https://github.com/waseem-development)
+<!-- Action & Brand Badges -->
+[![Website](https://img.shields.io/badge/Portfolio-codebypaxto.com-5755A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebypaxto.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-818CF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-waseem-ahmed-50a4b2347/)
+[![Email](https://img.shields.io/badge/Primary_Email-hello%40codebypaxto.com-BE185D?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hello@codebypaxto.com)
+[![Dev Email](https://img.shields.io/badge/Dev_Inquiries-waseemdevelopment2002%40gmail.com-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0B0F17)](mailto:waseemdevelopment2002@gmail.com)
+[![Location](https://img.shields.io/badge/🇵🇰-Quetta%2C%20Pakistan-01411C?style=for-the-badge)](https://github.com/waseem-development)
 
 </div>
 
@@ -25,9 +33,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=waseem-development&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/waseem-development?style=for-the-badge&color=06B6D4&labelColor=0f0f0f&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/waseem-development?style=for-the-badge&color=7C3AED&labelColor=0f0f0f&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=waseem-development&style=for-the-badge&color=5755A7&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/waseem-development?style=for-the-badge&color=818CF8&labelColor=0e1420&label=FOLLOWERS)
+![GitHub User's stars](https://img.shields.io/github/stars/waseem-development?style=for-the-badge&color=2DD4BF&labelColor=0e1420&label=TOTAL+STARS)
 
 </div>
 
@@ -37,28 +45,30 @@
 
 <div align="center">
 
-## ✦ &nbsp; W H O &nbsp; A M &nbsp; I &nbsp; ✦
+## ✦ &nbsp; A B O U T &nbsp; C O D E B Y P A X T O &nbsp; ✦
 
 </div>
 
 <br/>
 
 ```typescript
-const waseem: Developer = {
-  name      : "Hafiz Waseem Ahmed",
-  role      : "Full-Stack Web Developer  +  AI Builder",
-  company   : "ShalStack — bootstrapped · AI-first · ships real products",
-  location  : "Quetta, Balochistan, Pakistan 🇵🇰",
+const paxto: EngineerProfile = {
+  name        : "Hafiz Waseem Ahmed",
+  brand       : "CodeByPaxto",
+  role        : "Full-Stack Web Developer · Data Analyst · AI Automations Specialist",
+  leadership  : "Co-Founder @ ShalStack (Modern Software & Digital Systems)",
+  location    : "Quetta, Balochistan, Pakistan 🇵🇰",
+  portfolio   : "https://www.codebypaxto.com",
 
-  building  : [
-    "LLM-powered production apps",
-    "Scalable backend systems",
+  building    : [
+    "High-performance Next.js 15 & React 19 web platforms (99% PageSpeed · 0ms TBT)",
+    "Autonomous Python & n8n business automations & database workflows",
+    "Data intelligence dashboards, analytics pipelines & AI-first tools",
   ],
 
-  learning  : ["Transformer internals", "Distributed systems", "Go"],
-  principle : "Depth over breadth. Ship. Iterate. Repeat.",
-
-  funFact   : "Almost nobody builds at the intersection of LLMs + Islamic FinTech. That's precisely why it matters.",
+  learning    : ["Machine Learning & Scikit-learn", "Deep Learning / ANN", "Computer Vision", "Graph Neural Networks"],
+  ethos       : "Crafting software with Ihsan (إحسان) — excellence, intention, and real-world impact.",
+  ayah        : "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي (Surah Ta-Ha 20:25-26)",
 };
 ```
 
@@ -68,7 +78,8 @@ const waseem: Developer = {
 
 *قُلْ هَلْ يَسْتَوِي الَّذِينَ يَعْلَمُونَ وَالَّذِينَ لَا يَعْلَمُونَ*
 
-**"Say: Are those who know equal to those who do not know?"** — *Surah Az-Zumar, 39:9*
+**"Say: Are those who know equal to those who do not know?"**  
+— *Surah Az-Zumar, 39:9*
 
 </div>
 
@@ -80,7 +91,7 @@ const waseem: Developer = {
 
 <div align="center">
 
-## ⚡ &nbsp; T E C H &nbsp; S T A C K
+## ⚡ &nbsp; T E C H N I C A L &nbsp; S T A C K
 
 </div>
 
@@ -88,47 +99,35 @@ const waseem: Developer = {
 
 <div align="center">
 
-### 🧠 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🎨 Frontend & UI Craftsmanship
+![Next.js](https://img.shields.io/badge/Next.js_15-0E1420?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-5755A7?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-2DD4BF?style=for-the-badge&logo=tailwindcss&logoColor=0E1420)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+### ⚙️ Backend, AI & Automation Engineering
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Automations-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 🤖 AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-818CF8?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases
+### 🤖 Machine Learning & Data Intelligence
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+### 🗄️ Databases & Cloud Architecture
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -136,9 +135,10 @@ const waseem: Developer = {
 
 <div align="center">
 
-*وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا*
+*وَعَلَّمَكَ مَا لَمْ تَكُن تَعْلَمُ ۚ وَكَانَ فَضْلُ اللَّهِ عَلَيْكَ عَظِيمًا*
 
-**"And He taught Adam the names of all things."** — *Surah Al-Baqarah, 2:31*
+**"And He taught you that which you knew not. And great is the Grace of Allah upon you."**  
+— *Surah An-Nisa, 4:113*
 
 </div>
 
@@ -150,16 +150,19 @@ const waseem: Developer = {
 
 <div align="center">
 
-## 📊 &nbsp; G I T H U B &nbsp; S T A T S
+## 🏛️ &nbsp; F E A T U R E D &nbsp; P R O J E C T S
 
-</div>
+Explore live products built and maintained under **CodeByPaxto** and **ShalStack**:
 
-<br/>
-
-<div align="center">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=waseem-development&theme=tokyonight&hide_border=true&background=0d0d0d&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED&sideLabels=e0e7ff&dates=a0a0a0&border_radius=12" />
-
-</div>
+| Project | Focus / Stack | Live Link |
+| :--- | :--- | :---: |
+| **CodeByPaxto Portfolio** | Production portfolio scoring **99% Desktop & 90% Mobile** with 0ms TBT (Next.js 15, React 19, GSAP) | [Visit Website ↗](https://www.codebypaxto.com) |
+| **AWAZ Civic Platform** | Civic issue reporting, municipal governance, and community feedback management | [Explore Project ↗](https://www.codebypaxto.com/work) |
+| **Excellent School Quetta** | High-density institutional portal, student records & academic administration | [Explore Project ↗](https://www.codebypaxto.com/work) |
+| **Chef Paxto** | Interactive culinary digital experience & recipe intelligence application | [Explore Project ↗](https://www.codebypaxto.com/work) |
+| **The Public Blog** | Modern editorial publishing engine with optimized typography and content flow | [Explore Project ↗](https://www.codebypaxto.com/work) |
+| **Anonify** | Privacy-first messaging tool built with secure cryptographic practices | [Explore Project ↗](https://www.codebypaxto.com/work) |
+| **AI Career Recommender** | Supervised classification model recommending career pathways based on user aptitudes | [Explore Project ↗](https://www.codebypaxto.com/work) |
 
 </div>
 
@@ -167,10 +170,30 @@ const waseem: Developer = {
 
 ---
 
+<br/>
 
 <div align="center">
 
-## 🐍 &nbsp; C O N T R I B U T I O N &nbsp; S N A K E
+## 📊 &nbsp; G I T H U B &nbsp; S T A T S &nbsp; (CodeByPaxto Theme)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- GitHub Streak Stats in CodeByPaxto Obsidian & Royal Iris Theme -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=waseem-development&theme=tokyonight&hide_border=true&background=0b0f17&ring=5755A7&fire=2DD4BF&currStreakLabel=818CF8&sideLabels=fcf8ff&dates=94a3b8&border_radius=16" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🐍 &nbsp; C O N T R I B U T I O N &nbsp; G R A P H
 
 </div>
 
@@ -181,10 +204,12 @@ const waseem: Developer = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waseem-development/waseem-development/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waseem-development/waseem-development/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/waseem-development/waseem-development/output/github-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/waseem-development/waseem-development/output/github-snake.svg" />
 </picture>
 
 </div>
+
+<br/>
 
 ---
 
@@ -192,7 +217,7 @@ const waseem: Developer = {
 
 <div align="center">
 
-## 💎 &nbsp; P R I N C I P L E S
+## 💎 &nbsp; E N G I N E E R I N G &nbsp; P R I N C I P L E S
 
 </div>
 
@@ -200,20 +225,20 @@ const waseem: Developer = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   01  →  Understand the constraint before writing a single line  ║
-║                                                                  ║
-║   02  →  Production is the real test. Everything else is prep.   ║
-║                                                                  ║
-║   03  →  Depth compounds. Surface-level knowledge decays.        ║
-║                                                                  ║
-║   04  →  Consistency is infrastructure — engineer it like one.   ║
-║                                                                  ║
-║   05  →  The best software serves people who didn't ask for it.  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+```text
+╔═════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                     ║
+║   01  →  Build with Ihsan (إحسان): Software is a craft; deliver it with integrity.  ║
+║                                                                                     ║
+║   02  →  Understand the constraint before writing a single line of architecture.   ║
+║                                                                                     ║
+║   03  →  Production is the only true audit. Benchmark for 0ms Total Blocking Time.  ║
+║                                                                                     ║
+║   04  →  Depth over breadth. Deep foundational understanding outlasts any trend.    ║
+║                                                                                     ║
+║   05  →  Automate the repetitive; focus human intelligence on solving hard problems.║
+║                                                                                     ║
+╚═════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -224,7 +249,8 @@ const waseem: Developer = {
 
 *وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا*
 
-**"And put your trust in Allah. Sufficient is Allah as a Disposer of affairs."** — *Surah Al-Ahzab, 33:3*
+**"And put your trust in Allah. And sufficient is Allah as a Trustee of affairs."**  
+— *Surah Al-Ahzab, 33:3*
 
 </div>
 
@@ -236,21 +262,21 @@ const waseem: Developer = {
 
 <div align="center">
 
-## 🤝 &nbsp; L E T ' S &nbsp; C O N N E C T
+## 🤝 &nbsp; G E T &nbsp; I N &nbsp; T O U C H
 
-</div>
-
-<br/>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseem-development)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafiz-waseem-ahmed-50a4b2347)
-[![Gmail](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizwaseemahmed2002@gmail.com)
+Have a project idea, web platform requirement, or custom AI automation workflow? Let's connect:
 
 <br/>
 
-*Open to collaborate on AI-first products, and anything that ships to real users.*
+[![Official Website](https://img.shields.io/badge/Visit-codebypaxto.com-5755A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebypaxto.com)
+[![Direct Email](https://img.shields.io/badge/Email-hello%40codebypaxto.com-BE185D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@codebypaxto.com)
+[![Dev Email](https://img.shields.io/badge/Secondary-waseemdevelopment2002%40gmail.com-2DD4BF?style=for-the-badge&logo=mailgun&logoColor=0B0F17)](mailto:waseemdevelopment2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-waseem-ahmed-50a4b2347/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923412011877)
+
+<br/>
+
+*Always open to collaborating on high-performance web systems, AI automations, and digital ventures.*
 
 </div>
 
@@ -262,20 +288,21 @@ const waseem: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:7C3AED&height=130&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:818CF8,100:5755A7&height=120&section=footer&animation=fadeIn" alt="CodeByPaxto Footer Banner" />
 
 <br/>
 
 *وَاَنۡ لَّيۡسَ لِلۡاِنۡسَانِ اِلَّا مَا سَعٰىۙ*
 
-**"There is not for man except that for which he strives."** — *Surah An-Najm, 53:39*
+**"And that there is not for man except that for which he strives."**  
+— *Surah An-Najm, 53:39*
 
 <br/>
 
-**Quetta, Pakistan &nbsp;·&nbsp; In Shaa Allah — the best is still ahead 🤲**
+**Quetta, Balochistan, Pakistan 🇵🇰 &nbsp;·&nbsp; بِإِذْنِ اللَّهِ — The best work is still ahead 🤲**
 
 <br/>
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20from-Quetta%2C%20Pakistan-7C3AED?style=for-the-badge)
+![Made with Ihsan](https://img.shields.io/badge/Engineered%20with%20Ihsan-CodeByPaxto-5755A7?style=for-the-badge)
 
 </div>
