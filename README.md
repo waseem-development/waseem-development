@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5755A7,50:818CF8,100:2DD4BF&height=220&section=header&text=Hafiz%20Waseem%20Ahmed&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CodeByPaxto%20·%20Full-Stack%20Web%20and%20AI%20Automations%20·%20Co-Founder%20%40%20ShalStack&descSize=16&descAlignY=58&descColor=fcf8ff" alt="CodeByPaxto Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5755A7,50:818CF8,100:2DD4BF&height=220&section=header&text=AI%20%26amp%3B%20ML%20Playground&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CodeByPaxto%20·%20From%20Absolute%20Zero%20to%20Production%20Machine%20Learning&descSize=16&descAlignY=58&descColor=fcf8ff" alt="CodeByPaxto AI & ML Playground Banner" />
 
 </div>
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=4000&pause=1200&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=50&lines=🚀+Co-Founder+%40+ShalStack+—+Building+Scalable+Digital+Systems;⚡+Official+Portfolio%3A+codebypaxto.com;🧠+Full-Stack+Web+·+Python+Automations+·+Data+Intelligence;💎+Craftsmanship+with+Ihsan+(إحسان)+—+Ship.+Iterate.+Repeat.;🤲+رَّبِّ+زِدْنِي+عِلْمًا+—+My+Lord%2C+increase+me+in+knowledge.)](https://www.codebypaxto.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3600&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=🐍+Phase+1%3A+Python+Core+from+Absolute+Zero;📐+Phase+2%3A+Mathematics+for+Data+Science+and+Machine+Learning;⚡+Phase+3%3A+Vectorized+NumPy+%26+High-Performance+Pandas;📈+Phase+4%3A+Publication-Grade+Matplotlib+%26+Seaborn+Viz;🔍+Phase+5%3A+End-to-End+Exploratory+Data+Analysis+(EDA);🤖+Phase+6%3A+Classical+Scikit-Learn+ML+Models+%26+Capstone;🤲+رَّبِّ+زِدْنِي+عِلْمًا+—+My+Lord%2C+increase+me+in+knowledge.)](https://discord.gg/nmBJcYZTB)
 
 </div>
 
@@ -19,12 +19,12 @@
 
 <div align="center">
 
-<!-- Action & Brand Badges -->
-[![Website](https://img.shields.io/badge/Portfolio-codebypaxto.com-5755A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebypaxto.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-818CF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-waseem-ahmed-50a4b2347/)
-[![Email](https://img.shields.io/badge/Primary_Email-hello%40codebypaxto.com-BE185D?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hello@codebypaxto.com)
-[![Dev Email](https://img.shields.io/badge/Dev_Inquiries-waseemdevelopment2002%40gmail.com-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0B0F17)](mailto:waseemdevelopment2002@gmail.com)
-[![Location](https://img.shields.io/badge/🇵🇰-Quetta%2C%20Pakistan-01411C?style=for-the-badge)](https://github.com/waseem-development)
+<!-- Action & Community Badges in CodeByPaxto Theme -->
+[![Join Discord](https://img.shields.io/badge/Community-Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nmBJcYZTB)
+[![Official Website](https://img.shields.io/badge/Portfolio-codebypaxto.com-5755A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebypaxto.com)
+[![GitHub Repository](https://img.shields.io/badge/Curriculum-ai--and--ml--playground-2DD4BF?style=for-the-badge&logo=github&logoColor=0B0F17)](https://github.com/waseem-development/ai-and-ml-playground)
+[![Instructor](https://img.shields.io/badge/Instructor-Hafiz_Waseem_Ahmed-818CF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseem-development)
+[![Location](https://img.shields.io/badge/🇵🇰-Quetta%2C_Pakistan-01411C?style=for-the-badge)](https://github.com/waseem-development)
 
 </div>
 
@@ -32,10 +32,15 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=waseem-development&style=for-the-badge&color=5755A7&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/waseem-development?style=for-the-badge&color=818CF8&labelColor=0e1420&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/waseem-development?style=for-the-badge&color=2DD4BF&labelColor=0e1420&label=TOTAL+STARS)
+![GitHub Repo stars](https://img.shields.io/github/stars/waseem-development/ai-and-ml-playground?style=for-the-badge&color=5755A7&labelColor=0e1420&label=STARS)
+![GitHub forks](https://img.shields.io/github/forks/waseem-development/ai-and-ml-playground?style=for-the-badge&color=818CF8&labelColor=0e1420&label=FORKS)
+![GitHub repo size](https://img.shields.io/github/repo-size/waseem-development/ai-and-ml-playground?style=for-the-badge&color=2DD4BF&labelColor=0e1420&label=REPO+SIZE)
+![Profile Views](https://komarev.com/ghpvc/?username=waseem-development-ai-ml&label=COURSE+VIEWS&style=for-the-badge&color=BE185D)
 
+</div>
+
+<div align="center">
+<sub>Curated and taught by <b>Hafiz Waseem Ahmed</b> (<b>Paxto</b>) · Full-Stack & AI Automations Developer · Co-Founder @ <a href="https://www.shalstack.com">ShalStack</a></sub>
 </div>
 
 <br/>
@@ -44,31 +49,48 @@
 
 <div align="center">
 
-## ✦ &nbsp; A B O U T &nbsp; C O D E B Y P A X T O &nbsp; ✦
+## ✦ &nbsp; W H A T &nbsp; I S &nbsp; T H I S &nbsp; C O U R S E ? &nbsp; ✦
 
 </div>
 
 <br/>
 
-```typescript
-const paxto: EngineerProfile = {
-  name        : "Hafiz Waseem Ahmed",
-  brand       : "CodeByPaxto",
-  role        : "Full-Stack Web Developer · Data Analyst · AI Automations Specialist",
-  leadership  : "Co-Founder @ ShalStack (Modern Software & Digital Systems)",
-  location    : "Quetta, Balochistan, Pakistan 🇵🇰",
-  portfolio   : "https://www.codebypaxto.com",
-  coFounder   : "https://www.shalstack.com",
+**CodeByPaxto: The AI & ML Playground** is a battle-tested, zero-fluff engineering track designed to take you from *"I've never touched a terminal"* to *"I can ingest raw messy data, execute rigorous EDA, engineer features, and train production-ready Machine Learning models."*
 
-  building    : [
-    "High-performance Next.js 15 & React 19 web platforms",
-    "Autonomous Python & n8n business automations & database workflows",
-    "Data intelligence dashboards, analytics pipelines & AI-first tools",
+We strip away academic gatekeeping, replace passive video watching with active coding labs, and structure every concept so that **every single topic exists because the next one strictly depends on it**.
+
+<br/>
+
+```typescript
+const course: CourseSpec = {
+  name        : "CodeByPaxto: The AI & ML Playground",
+  instructor  : "Hafiz Waseem Ahmed (Paxto)",
+  brand       : "CodeByPaxto",
+  cadence     : "Live interactive cohort · Fri, Sat, Sun · 1 hour intensive sessions",
+  hub         : "https://discord.gg/nmBJcYZTB",
+  repository  : "https://github.com/waseem-development/ai-and-ml-playground",
+  portfolio   : "https://www.codebypaxto.com",
+
+  builtFor    : [
+    "Researchers & domain scientists tired of waiting on external data teams",
+    "Students & professionals looking for genuine foundational depth, not surface tutorials",
+    "Developers seeking an uncompromising, ground-up path into Machine Learning",
   ],
 
-  learning    : ["Machine Learning & Scikit-learn", "Deep Learning / ANN", "Computer Vision", "Graph Neural Networks"],
-  ethos       : "Crafting software with Ihsan (إحسان) — excellence, intention, and real-world impact.",
-  ayah        : "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي (Surah Ta-Ha 20:25-26)",
+  learningOutcomes: [
+    "Terminal literacy, reproducible conda environments, and modern Git workflows",
+    "Idiomatic Python: closures, recursion, decorators, OOP, os & pathlib automation",
+    "Mathematics for Data Science and Machine Learning: linear algebra, matrices, probability & calculus",
+    "High-speed numerical vectorization with NumPy and structured wrangling with Pandas",
+    "Publication-grade exploratory visual storytelling using Matplotlib and Seaborn",
+    "End-to-end data pipelines: cleaning dirty data, handling nulls & feature scaling",
+    "Supervised machine learning algorithms (classification & regression) with Scikit-Learn",
+    "An end-to-end, portfolio-grade Capstone project built and documented independently",
+  ],
+
+  pedagogy    : "Prerequisite chaining: Zero fluff. Immediate code execution. High intuition.",
+  ethos       : "Crafting software and intelligence with Ihsan (إحسان) — excellence with intention.",
+  ayah        : "رَبِّ زِدْنِي عِلْمًا (Surah Ta-Ha 20:114)",
 };
 ```
 
@@ -81,6 +103,11 @@ const paxto: EngineerProfile = {
 **"Say: Are those who know equal to those who do not know?"**  
 — *Surah Az-Zumar, 39:9*
 
+<br/>
+
+*"You're not here to passively memorize algorithms.*  
+*You're here so your research, your product, and your curiosity never have to wait on anyone else again."*
+
 </div>
 
 <br/>
@@ -91,7 +118,7 @@ const paxto: EngineerProfile = {
 
 <div align="center">
 
-## ⚡ &nbsp; T E C H N I C A L &nbsp; S T A C K
+## ⚡ &nbsp; T O O L S &nbsp; &amp; &nbsp; T E C H N I C A L &nbsp; S T A C K
 
 </div>
 
@@ -99,35 +126,176 @@ const paxto: EngineerProfile = {
 
 <div align="center">
 
-### 🎨 Frontend & UI Craftsmanship
-![Next.js](https://img.shields.io/badge/Next.js_15-0E1420?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-5755A7?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-2DD4BF?style=for-the-badge&logo=tailwindcss&logoColor=0E1420)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Phase 1 · Environment, Shell & Python Core
+![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Miniconda](https://img.shields.io/badge/Miniconda_/_Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git_CLI-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0E1420?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ⚙️ Backend, AI & Automation Engineering
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n_Automations-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-818CF8?style=for-the-badge&logo=fastapi&logoColor=white)
+### 📐 Phase 2 · Mathematics for Data Science & Machine Learning
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-5755A7?style=for-the-badge&logoColor=white)
+![Vectors & Matrices](https://img.shields.io/badge/Vectors_%26_Matrices-818CF8?style=for-the-badge&logoColor=white)
+![Calculus & Gradients](https://img.shields.io/badge/Calculus_%26_Gradients-2DD4BF?style=for-the-badge&logoColor=0B0F17)
+![Probability & Distributions](https://img.shields.io/badge/Probability_%26_Distributions-BE185D?style=for-the-badge&logoColor=white)
+![Optimization](https://img.shields.io/badge/Loss_%26_Optimization-3776AB?style=for-the-badge&logoColor=white)
 
-### 🤖 Machine Learning & Data Intelligence
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 📊 Phase 3 · Data Intelligence, Computing & EDA
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![EDA Architecture](https://img.shields.io/badge/EDA_Architecture-2DD4BF?style=for-the-badge&logoColor=0B0F17)
+![Data Wrangling](https://img.shields.io/badge/Data_Wrangling_%26_Cleaning-5755A7?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗄️ Databases & Cloud Architecture
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 📈 Phase 4 · Data Visualization & Visual Storytelling
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![Statistical Plotting](https://img.shields.io/badge/Statistical_Distributions-BE185D?style=for-the-badge&logoColor=white)
+
+### 🤖 Phase 5 · Machine Learning (Supervised & Unsupervised)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-5755A7?style=for-the-badge&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-2DD4BF?style=for-the-badge&logoColor=0B0F17)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-818CF8?style=for-the-badge&logoColor=white)
+
+### 🚀 Phase 6 · Evaluation Pipelines & Capstone Project
+![Cross-Validation](https://img.shields.io/badge/Cross--Validation_%26_Metrics-BE185D?style=for-the-badge&logoColor=white)
+![Pipelines](https://img.shields.io/badge/Scikit--Learn_Pipelines-0E1420?style=for-the-badge&logoColor=white)
+![Capstone Project](https://img.shields.io/badge/Portfolio_Capstone_Project-2DD4BF?style=for-the-badge&logoColor=0B0F17)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🗺️ &nbsp; C U R R I C U L U M &nbsp; R O A D M A P
+
+</div>
+
+<br/>
+
+| Phase | Milestone & Focus | Key Deliverables & Practical Labs | Repo Assets |
+| :---: | :--- | :--- | :---: |
+| **01** | **Python Core & Engineering Foundations** | Memory model, primitive data types, control flow, functions, collections, OOP, closures, decorators, file automation, and Git/Conda environment hygiene. | [`slides/1_python_slides`](./slides/1_python_slides)<br/>[`slides/2_version_ control_system`](./slides/2_version_%20control_system)<br/>[`handouts/`](./handouts)<br/>[`source_code/1_python`](./source_code/1_python) |
+| **02** | **Mathematics for Data Science and Machine Learning** | Linear algebra, vectors, matrices, dot products, matrix transformations, calculus intuitions (gradients, derivatives), probability, and loss functions. | [`slides/3_mathematics_for_data_science_and_machine_learning`](./slides/3_mathematics_for_data_science_and_machine_learning)<br/>[`source_code/2_descriptive_statistics`](./source_code/2_descriptive_statistics) |
+| **03** | **Vectorized Computing with NumPy & Pandas** | N-dimensional arrays, broadcasting, vectorization vs loops, DataFrames, indexing (`loc`/`iloc`), missing data imputation, joins, groupbys, and aggregations. | [`slides/4_numpy`](./slides/4_numpy)<br/>[`slides/5_pandas`](./slides/5_pandas) |
+| **04** | **Visual Storytelling (Matplotlib & Seaborn)** | Publication-grade charting, figure architectures, statistical distributions, heatmaps, categorical plots, and customized aesthetics. | [`slides/6_matplotlib`](./slides/6_matplotlib)<br/>[`slides/7_seaborn`](./slides/7_seaborn) |
+| **05** | **Exploratory Data Analysis (EDA)** | End-to-end data pipelines: ingesting dirty uncurated datasets, outlier detection, feature scaling, correlation analysis, and multivariate investigation. | [`supporting material/`](./supporting%20material)<br/>*(Hands-on Datasets & Case Studies)* |
+| **06** | **Machine Learning Foundations & Capstone Defense** | Train/test splits, regression models, classification models, Scikit-Learn pipelines, cross-validation, hyperparameter tuning, metrics, and a self-directed Capstone. | [`source_code/`](./source_code)<br/>*(Capstone Project Template)* |
+
+<br/>
+
+<div align="center">
+<sub>Each phase is strictly chained: no concept is taught in isolation without immediate downstream application.</sub>
+</div>
+
+<br/>
+
+---
+
+
+<br/>
+
+<div align="center">
+
+## 🚀 &nbsp; Q U I C K S T A R T &nbsp; &amp; &nbsp; S E T U P
+
+</div>
+
+<br/>
+
+### 1. Clone this Repository
+```bash
+git clone https://github.com/waseem-development/ai-and-ml-playground.git
+cd ai-and-ml-playground
+```
+
+### 2. Set Up a Clean Conda Environment
+Ensure you have [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system:
+
+```bash
+# Create dedicated course environment
+conda create -n aiml-playground python=3.11 -y
+
+# Activate environment
+conda activate aiml-playground
+
+# Install core scientific and visualization packages
+pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab
+```
+
+### 3. Launch Your Workspace
+```bash
+# Open repository in VS Code
+code .
+
+# Or launch interactive JupyterLab interface
+jupyter lab
+```
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🎮 &nbsp; D O &nbsp; Y O U &nbsp; B E L O N G &nbsp; H E R E ?
+
+</div>
+
+<br/>
+
+**You will thrive in this course if:**
+- ✅ **You've opened a 200,000-row spreadsheet** and watched Excel freeze, thinking: *"there has to be an engineered way to do this."*
+- ✅ **You hear "AI" everywhere** and refuse to remain a passive spectator—you want to understand the actual mechanics, code, and math.
+- ✅ **Your research or startup idea** is bottlenecked waiting for someone else to write an analysis script, build a chart, or train a model.
+- ✅ **You can encounter a `SyntaxError`** without despair, understanding that errors are just the interpreter giving you precise directions.
+- ✅ **You have curiosity and persistence.** You are ready to run the code, observe the outputs, and iterate.
+
+**This might not be the right place if:**
+- ❌ You are looking for a certificate to print and hang on a wall without writing a single line of code.
+- ❌ You believe prompt engineering replaces understanding foundational computer science and math.
+- ❌ You expect machine learning to be magic rather than applied linear algebra, optimization, and data cleanliness.
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 💎 &nbsp; L E A R N I N G &nbsp; P R I N C I P L E S &nbsp; (I H S A N)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```text
+╔═════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                     ║
+║   01  →  Learn with Ihsan (إحسان): True technical mastery requires sincere craft.   ║
+║                                                                                     ║
+║   02  →  Code before theory: Run it, break it, inspect it, then learn the math.     ║
+║                                                                                     ║
+║   03  →  No black boxes: If you can't describe the shape of the tensor, don't fit.  ║
+║                                                                                     ║
+║   04  →  Real dirty data over sterile tutorial sets: Real world datasets are messy. ║
+║                                                                                     ║
+║   05  →  Build to empower: Gain independence so your intellect is never bottlenecked.║
+║                                                                                     ║
+╚═════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -150,125 +318,14 @@ const paxto: EngineerProfile = {
 
 <div align="center">
 
-## 🏛️ &nbsp; F E A T U R E D &nbsp; P R O J E C T S
+## 🤝 &nbsp; J O I N &nbsp; T H E &nbsp; C O H O R T &nbsp; &amp; &nbsp; C O N N E C T
 
-Explore live products built and maintained under **CodeByPaxto** and **ShalStack**:
-
-| Project | Focus / Stack | Live Link |
-| :--- | :--- | :---: |
-| **CodeByPaxto Portfolio** | Personal portfolio & digital showcase engineered with Next.js 15, React 19, and GSAP | [Visit Website ↗](https://www.codebypaxto.com) |
-| **AWAZ Civic Platform** | Civic issue reporting, municipal governance, and community feedback management | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **Excellent School Quetta** | High-density institutional portal, student records & academic administration | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **Chef Paxto** | Interactive culinary digital experience & recipe intelligence application | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **The Public Blog** | Modern editorial publishing engine with optimized typography and content flow | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **Anonify** | Privacy-first messaging tool built with secure cryptographic practices | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **AI Career Recommender** | Supervised classification model recommending career pathways based on user aptitudes | [Explore Project ↗](https://www.codebypaxto.com/work) |
-
-</div>
+Have questions about the syllabus, need help debugging an assignment, or want to discuss AI research?
 
 <br/>
 
----
-
-<br/>
-
-<div align="center">
-
-## 📊 &nbsp; G I T H U B &nbsp; S T A T S &nbsp; (CodeByPaxto Theme)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- GitHub Streak Stats in CodeByPaxto Obsidian & Royal Iris Theme -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=waseem-development&theme=tokyonight&hide_border=true&background=0b0f17&ring=5755A7&fire=2DD4BF&currStreakLabel=818CF8&sideLabels=fcf8ff&dates=94a3b8&border_radius=16" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🐍 &nbsp; C O N T R I B U T I O N &nbsp; G R A P H
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/waseem-development/waseem-development/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/waseem-development/waseem-development/output/github-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/waseem-development/waseem-development/output/github-snake.svg" />
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 💎 &nbsp; E N G I N E E R I N G &nbsp; P R I N C I P L E S
-
-</div>
-
-<br/>
-
-<div align="center">
-
-```text
-╔═════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                     ║
-║   01  →  Build with Ihsan (إحسان): Software is a craft; deliver it with integrity.  ║
-║                                                                                     ║
-║   02  →  Understand the constraint before writing a single line of architecture.   ║
-║                                                                                     ║
-║   03  →  Production is the real test. Ship real value to real users.                ║
-║                                                                                     ║
-║   04  →  Depth over breadth. Deep foundational understanding outlasts any trend.    ║
-║                                                                                     ║
-║   05  →  Automate the repetitive; focus human intelligence on solving hard problems.║
-║                                                                                     ║
-╚═════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*وَتَوَكَّلْ عَلَى اللَّهِ ۚ وَكَفَىٰ بِاللَّهِ وَكِيلًا*
-
-**"And put your trust in Allah. And sufficient is Allah as a Trustee of affairs."**  
-— *Surah Al-Ahzab, 33:3*
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🤝 &nbsp; G E T &nbsp; I N &nbsp; T O U C H
-
-Have a project idea, web platform requirement, or custom AI automation workflow? Let's connect:
-
-<br/>
-
-[![Official Website](https://img.shields.io/badge/Visit-codebypaxto.com-5755A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebypaxto.com)
+[![Join Discord Community](https://img.shields.io/badge/Discord-Join_CodeByPaxto-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nmBJcYZTB)
+[![Official Website](https://img.shields.io/badge/Website-codebypaxto.com-5755A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebypaxto.com)
 [![Direct Email](https://img.shields.io/badge/Email-hello%40codebypaxto.com-BE185D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@codebypaxto.com)
 [![Dev Email](https://img.shields.io/badge/Secondary-waseemdevelopment2002%40gmail.com-2DD4BF?style=for-the-badge&logo=mailgun&logoColor=0B0F17)](mailto:waseemdevelopment2002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-waseem-ahmed-50a4b2347/)
@@ -276,7 +333,7 @@ Have a project idea, web platform requirement, or custom AI automation workflow?
 
 <br/>
 
-*Always open to collaborating on high-performance web systems, AI automations, and digital ventures.*
+*The [CodeByPaxto Discord Server](https://discord.gg/nmBJcYZTB) is the primary channel for live session announcements, handouts, and weekly office hours.*
 
 </div>
 
@@ -288,7 +345,7 @@ Have a project idea, web platform requirement, or custom AI automation workflow?
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:818CF8,100:5755A7&height=120&section=footer&animation=fadeIn" alt="CodeByPaxto Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:818CF8,100:5755A7&height=120&section=footer&animation=fadeIn" alt="CodeByPaxto AI ML Footer Banner" />
 
 <br/>
 
@@ -303,6 +360,6 @@ Have a project idea, web platform requirement, or custom AI automation workflow?
 
 <br/>
 
-![Made with Ihsan](https://img.shields.io/badge/Engineered%20with%20Ihsan-CodeByPaxto-5755A7?style=for-the-badge)
+![Engineered with Ihsan](https://img.shields.io/badge/Engineered%20with%20Ihsan-CodeByPaxto-5755A7?style=for-the-badge)
 
 </div>
