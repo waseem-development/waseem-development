@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-818CF8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-waseem-ahmed-50a4b2347/)
 [![Email](https://img.shields.io/badge/Primary_Email-hello%40codebypaxto.com-BE185D?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hello@codebypaxto.com)
 [![Dev Email](https://img.shields.io/badge/Dev_Inquiries-waseemdevelopment2002%40gmail.com-2DD4BF?style=for-the-badge&logo=gmail&logoColor=0B0F17)](mailto:waseemdevelopment2002@gmail.com)
-[![Location](https://img.shields.io/badge/🇵🇰-Quetta%2C%20Pakistan-01411C?style=for-the-badge)](https://github.com/waseem-development)
+[![Location](https://img.shields.io/badge/Quetta%2C%20Pakistan-01411C?style=for-the-badge)](https://github.com/waseem-development)
 
 </div>
 
@@ -56,7 +56,7 @@ const paxto: EngineerProfile = {
   brand       : "CodeByPaxto",
   role        : "Full-Stack Web Developer · Data Analyst · AI Automations Specialist",
   leadership  : "Co-Founder @ ShalStack (Modern Software & Digital Systems)",
-  location    : "Quetta, Balochistan, Pakistan 🇵🇰",
+  location    : "Quetta, Balochistan, Pakistan",
   portfolio   : "https://www.codebypaxto.com",
   coFounder   : "https://www.shalstack.com",
 
@@ -148,29 +148,6 @@ const paxto: EngineerProfile = {
 
 <br/>
 
-<div align="center">
-
-## 🏛️ &nbsp; F E A T U R E D &nbsp; P R O J E C T S
-
-Explore live products built and maintained under **CodeByPaxto** and **ShalStack**:
-
-| Project | Focus / Stack | Live Link |
-| :--- | :--- | :---: |
-| **CodeByPaxto Portfolio** | Personal portfolio & digital showcase engineered with Next.js 15, React 19, and GSAP | [Visit Website ↗](https://www.codebypaxto.com) |
-| **AWAZ Civic Platform** | Civic issue reporting, municipal governance, and community feedback management | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **Excellent School Quetta** | High-density institutional portal, student records & academic administration | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **Chef Paxto** | Interactive culinary digital experience & recipe intelligence application | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **The Public Blog** | Modern editorial publishing engine with optimized typography and content flow | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **Anonify** | Privacy-first messaging tool built with secure cryptographic practices | [Explore Project ↗](https://www.codebypaxto.com/work) |
-| **AI Career Recommender** | Supervised classification model recommending career pathways based on user aptitudes | [Explore Project ↗](https://www.codebypaxto.com/work) |
-
-</div>
-
-<br/>
-
----
-
-<br/>
 
 <div align="center">
 
@@ -299,7 +276,7 @@ Have a project idea, web platform requirement, or custom AI automation workflow?
 
 <br/>
 
-**Quetta, Balochistan, Pakistan 🇵🇰 &nbsp;·&nbsp; بِإِذْنِ اللَّهِ — The best work is still ahead 🤲**
+**Quetta, Balochistan, Pakistan &nbsp;·&nbsp; بِإِذْنِ اللَّهِ — The best work is still ahead 🤲**
 
 <br/>
 
